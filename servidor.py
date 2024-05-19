@@ -57,4 +57,4 @@ if flnm.split(".")[-1] == "pyc":
 else:
 	os.system(f"chmod +x {flnm} && ./{flnm}")  
 	###mishuevos son azules
-	###porque baltazar lo quzo asi
+	###porque baltazar lo quzo asi/stop
